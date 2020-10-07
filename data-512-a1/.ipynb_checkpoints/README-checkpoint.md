@@ -1,4 +1,4 @@
-# Data 511 A1: Data Curation
+# Data 512 A1: Data Curation
 
 In this assignment, Wikipedia page traffic data between January 1, 2008 and August 30, 2020 is gathered from two separate [Wikimedia REST API](https://www.mediawiki.org/wiki/Wikimedia_REST_API) endpoints. The data specifically covers monthly desktop and mobile traffic across that time period.
 
