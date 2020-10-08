@@ -10,7 +10,7 @@ The two API endpoints are:
 
 Examples for how to use these APIs can be found [here](https://public.paws.wmcloud.org/User:Jtmorgan/data512_a1_example.ipynb)
 
-The data from the Pageviews API includes traffic from spiders and crawlers while the data from the Legacy Pagecounts API does not. Traffic from spiders and crawlers was filtered out by setting the `agent` parameter to "user" for the calls to the Pageviews API.
+The data from the Pageviews API allows filtering of traffic from spiders and crawlers while the data from the Legacy Pagecounts API does not. Traffic from spiders and crawlers was filtered out by setting the `agent` parameter to "user" for the calls to the Pageviews API.
 
 The code in A1.ipynb will generate five JSON files and one CSV file. The five JSON files contain JSON response data from the five API calls made in the code:
 * `pagecounts_desktop-site_200801-202008.json`: desktop-site traffic from Legacy Pagecounts API
