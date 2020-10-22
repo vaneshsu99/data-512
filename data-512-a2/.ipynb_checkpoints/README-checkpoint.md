@@ -21,7 +21,7 @@ My first analysis looks at the crowd-worker data for the toxicity dataset. I did
 
 My second analysis looks into the words that are most common in comments labeled as "toxic", "aggression", or "attack". A visualization generated from this analysis can be seen here:
 
-![toxicity word frequency](./visuals/toxicity_word_frequency.png)
+![toxicity word frequency](./visuals/attack_word_frequency.png)
 
 All visualizations generated can be found in the visuals folder.
 
